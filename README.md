@@ -1,5 +1,6 @@
 # Genius-Exporter
 Exports the Lyrics and Annotations for all tracks of any desired album into a rich Markdown format which can be instantly converted into PDF file to read on the go.
+All you have to do is input the album name and the artist name and a markdown file with the lyrics + annotations for every track off the album will be genereated in the working directory.
 
 # Usage
 
